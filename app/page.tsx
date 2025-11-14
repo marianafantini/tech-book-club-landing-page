@@ -9,7 +9,7 @@ export default function Home() {
           <span className="font-inter">
             Turn your reading time into learning time with fellow tech enthusiasts. Get curated recommendations, join vibrant discussions, and level up your skills one chapter at a time.
           </span>
-          <button className="uppercase border-black p-4 font-martian-mono" href="/">
+          <button className="uppercase border-black p-4 font-martian-mono">
             REVIEW MEMBERSHIP OPTIONS
           </button>
         </div>
